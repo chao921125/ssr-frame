@@ -1,0 +1,19 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
+
+# Editor directories
+.DS_Store
+.hbuilderx
+.vscode/*
+!.vscode/extensions.json
+.idea
+.vscode
+.project
+.cache
+.local
